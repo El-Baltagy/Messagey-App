@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1053689338636",
+    "project_id": "messagey-app",
+    "storage_bucket": "messagey-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1053689338636:android:05b349ec5eaefe10dec729",
+        "android_client_info": {
+          "package_name": "com.example.messagy_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1053689338636-lug79lt0eppipqrn38knojsiqvdpdc8m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.messagy_app",
+            "certificate_hash": "3bf1b3c5e5d624b2a98228a53203260de4989bec"
+          }
+        },
+        {
+          "client_id": "1053689338636-ld096g2jq51n6r0bf4ti0c09vd7v0ktv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOkczvA4kv8OlZpTzlS7VX_qS4PF62YB0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1053689338636-ld096g2jq51n6r0bf4ti0c09vd7v0ktv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
